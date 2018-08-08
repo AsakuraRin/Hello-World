@@ -1,0 +1,6 @@
+C:\MyProgram\VS\WorkSpace\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe.config
+C:\MyProgram\VS\WorkSpace\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+C:\MyProgram\VS\WorkSpace\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb
+C:\MyProgram\VS\WorkSpace\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+C:\MyProgram\VS\WorkSpace\HelloWorld\HelloWorld\obj\Release\HelloWorld.exe
+C:\MyProgram\VS\WorkSpace\HelloWorld\HelloWorld\obj\Release\HelloWorld.pdb
